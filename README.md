@@ -1,10 +1,6 @@
 # Memories
 Um site que permite salvar suas melhores memorias, feito com banco de dados atlas, react e muito mais!
 
-# Party
-Projeto com banco de dados Atlas, usado para testar conhecimentos com integração de banco de dados, em api com react 
-
-
 # Imagem do Projeto
 ![image](https://github.com/user-attachments/assets/34c28447-8160-44d5-9d1f-23595e8341ef)
 
